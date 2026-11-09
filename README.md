@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra Nwanji</h1>
-<h3 align="center">QA Enginner</h3>
+<h3 align="center">QA engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandraoziomaluv&label=Profile%20views&color=0e75b6&style=flat" alt="sandraoziomaluv" /> </p>
 
